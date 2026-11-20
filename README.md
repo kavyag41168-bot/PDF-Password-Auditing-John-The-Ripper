@@ -102,7 +102,7 @@ john --show --format=PDF pdf_hash.txt
 Screenshots below document the actual practical implementation
 
 ### 1. Password Recovery – Practical 1
-<!-- Add first successful recovery screenshot here -->
+![image alt](https://github.com/kavyag41168-bot/PDF-Password-Auditing-John-The-Ripper/blob/9f007e2b5d0eb6be5354b02e24c5da5f12bc19f8/password%20unlock%201.jpeg)
 
 ### 2. Password Recovery – Practical 2
 <!-- Add second successful recovery screenshot here -->
