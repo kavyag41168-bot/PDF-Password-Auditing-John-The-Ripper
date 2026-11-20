@@ -111,7 +111,7 @@ Screenshots below document the actual practical implementation
 ![image alt](https://github.com/kavyag41168-bot/PDF-Password-Auditing-John-The-Ripper/blob/13eb2938898bfc5633b7caf77e1020ef406706dd/password%20unlock%203.jpeg)
 
 ### 4. Password Recovery – Practical 4
-<!-- Add second successful recovery screenshot here -->
+![image alt](https://github.com/kavyag41168-bot/PDF-Password-Auditing-John-The-Ripper/blob/cd5ea3db9df7b59c4e609ae27b5f313230ec651c/password%20unlock%204.jpeg)
 
 
 ## 📊 Practical Results
