@@ -1,6 +1,6 @@
 # 🔐 PDF Password Auditing & Recovery Using John the Ripper
 
-### Hands-on Cybersecurity | Ethical Hacking | Kali Linu
+### Hands-on Cybersecurity | Ethical Hacking | Kali Linux
 
 
 ## 📌 Project Overview
